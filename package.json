@@ -1,0 +1,10 @@
+{
+    "name": "remote-grooveshark",
+    "license": "GPL 3.0",
+    "author": "Benjamin Boudreau <benjamin@bboudreau.ca> (http://bboudreau.ca/)",
+    "version": "0.1",
+    "fullName": "Remote Grooveshark",
+    "id": "remote-grooveshark",
+    "description": "Remote interactions with Grooveshark player - Let 3rdParty apps control your Grooveshark",
+    "keywords": ["grooveshark", "remote", "control", "mobile"]
+}

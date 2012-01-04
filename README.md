@@ -1,4 +1,4 @@
-Remote-Grooveshark Firefox Plugin
+Remote-Grooveshark Firefox Plugin <img src="http://stillmaintained.com/dreur/firefox-remote-grooveshark.png"/>
 ==================================
 
 A Firefox plugin to control your [Grooveshark](http://grooveshark.com/ "Grooveshark") player from 3rd party apps.
